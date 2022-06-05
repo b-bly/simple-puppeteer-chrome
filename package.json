@@ -1,0 +1,17 @@
+{
+  "name": "simple-puppeteer-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.2.1"
+  },
+  "devDependencies": {
+    "install-chrome-dependencies": "^1.1.2"
+  }
+}
